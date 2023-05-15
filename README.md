@@ -7,14 +7,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsAvila&layout=compact&hide_border=true&title_color=3db0f7&text_color=3db0f7&bg_color=0d1117" />
 </div>
 
+##
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dsAvila&theme=gotham)
 
 ##
 
 <div align="center">
+  <br>
   <a href = "mailto:gabrielsnt.avila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-%C3%A1vila-0bb483266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>  
+</div> 
+  
+##  
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
