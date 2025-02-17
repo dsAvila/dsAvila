@@ -124,14 +124,14 @@ Me chamo Gabriel Ávila dos Santos, tenho 20 anos e sou natural do Rio Grande do
     align="left" 
     alt="GitHub Stats" 
     style="padding-right: 10px;" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=dsavila&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsavila&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
