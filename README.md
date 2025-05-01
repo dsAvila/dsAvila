@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Ávila dos Santos, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco e, no mesmo ano, finalizei o curso técnico em informática pela FAQI. Atualmente, curso Análise e Desenvolvimento de Sistemas na UniRitter. Sou apaixonado por tecnologia e estou constantemente aprendendo sobre desenvolvimento de software. Tenho interesse especial em desenvolvimento web, e gosto de explorar novas tecnologias e frameworks.
+Me chamo Gabriel Ávila dos Santos, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco e, no mesmo ano, finalizei o curso técnico em informática para internet pela FAQI. Atualmente, curso Análise e Desenvolvimento de Sistemas na UniRitter. Sou apaixonado por tecnologia e estou constantemente aprendendo sobre desenvolvimento de software. Tenho interesse especial em desenvolvimento web, e gosto de explorar novas tecnologias e frameworks.
 
 <p align="left">
     <a href="https://github.com/dsAvila?tab=repositories&sort=stargazers">
