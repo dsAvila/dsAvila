@@ -5,17 +5,17 @@
   <img src="https://img.shields.io/badge/Pós--graduando_em_Engenharia_de_Software-2d333b?style=for-the-badge&logoColor=white" alt="Pós-graduação">
 </p>
 
-Me chamo **Gabriel Ávila**, tenho 21 anos e sou natural do Rio Grande do Sul. Minha trajetória na tecnologia começou com a formação técnica em **Informática para Internet** pela FAQI (concluída em 2022). Sou graduado em **Análise e Desenvolvimento de Sistemas** (2025) e atualmente pós-graduando em **Engenharia de Software**. Sou entusiasta da tecnologia e busco evolução contínua no desenvolvimento de software, com foco atual em me especializar como desenvolvedor **Full Stack**, explorando arquiteturas modernas e frameworks que permitam construir soluções completas e de alto impacto.
+Me chamo **Gabriel Ávila**, tenho 21 anos e sou natural do Rio Grande do Sul. Minha trajetória na tecnologia começou com a formação técnica em **Informática para Internet** pela FAQI (concluída em 2022). Sou graduado em **Análise e Desenvolvimento de Sistemas** (2025) e atualmente pós-graduando em **Engenharia de Software** pela **PUC Rio**. Sou entusiasta da tecnologia e busco evolução contínua no desenvolvimento de software, com foco atual em me especializar como desenvolvedor **Full Stack**, explorando arquiteturas modernas e frameworks que permitam construir soluções completas e de alto impacto.
 
 ## 🚀 Foco e Competências
 
-✨ **Desenvolvimento Full Stack**
+✨ **Desenvolvimento Full Stack** <br>
 Dedico meus estudos à construção de aplicações de ponta a ponta. Tenho experiência prática na criação de interfaces dinâmicas com **React.js** e no desenvolvimento de estruturas de back-end com **Node.js**, sempre focando em código limpo e funcional.
 
-🛠️ **Automação e Resolução de Problemas**
+🛠️ **Automação e Resolução de Problemas** <br>
 Possuo facilidade em identificar processos manuais que podem ser otimizados. Como projeto de destaque, desenvolvi de forma proativa um script em **PowerShell** para automatizar a verificação de versões de softwares em ambientes laboratoriais, garantindo eficiência na manutenção preventiva.
 
-🎨 **Arquitetura e Engenharia de Software**
+🎨 **Arquitetura e Engenharia de Software** <br>
 Através da minha pós-graduação, busco aplicar as melhores práticas de engenharia e usabilidade. Utilizo **Tailwind CSS** para transformar conceitos visuais em interfaces responsivas que oferecem uma excelente experiência em qualquer dispositivo.
 
 ## 💻 Tech Stack
