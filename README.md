@@ -1,138 +1,31 @@
-# 👨🏻‍💻 Gabriel Ávila
-
-**`Desenvolvedor Front-End`**
-
-Me chamo Gabriel Ávila dos Santos, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco e, no mesmo ano, finalizei o curso técnico em informática para internet pela FAQI. Atualmente, curso Análise e Desenvolvimento de Sistemas na UniRitter. Sou apaixonado por tecnologia e estou constantemente aprendendo sobre desenvolvimento de software. Tenho interesse especial em desenvolvimento web, e gosto de explorar novas tecnologias e frameworks.
+# 👋 Olá!
 
 <p align="left">
-    <a href="https://github.com/dsAvila?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/dsAvila?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/dsAvila?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/dsAvila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://img.shields.io/badge/Desenvolvedor_de_Software-2d333b?style=for-the-badge&logoColor=white" alt="Desenvolvedor de Software">
+  <img src="https://img.shields.io/badge/Pós--graduando_em_Engenharia_de_Software-2d333b?style=for-the-badge&logoColor=white" alt="Pós-graduação">
 </p>
 
----
+Me chamo **Gabriel Ávila**, tenho 21 anos e sou natural do Rio Grande do Sul. Minha trajetória na tecnologia começou com a formação técnica em **Informática para Internet** pela FAQI (concluída em 2022). Sou graduado em **Análise e Desenvolvimento de Sistemas** (2025) e atualmente pós-graduando em **Engenharia de Software**. Sou entusiasta da tecnologia e busco evolução contínua no desenvolvimento de software, com foco atual em me especializar como desenvolvedor **Full Stack**, explorando arquiteturas modernas e frameworks que permitam construir soluções completas e de alto impacto.
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Foco e Competências
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+✨ **Desenvolvimento Full Stack**
+Dedico meus estudos à construção de aplicações de ponta a ponta. Tenho experiência prática na criação de interfaces dinâmicas com **React.js** e no desenvolvimento de estruturas de back-end com **Node.js**, sempre focando em código limpo e funcional.
 
-<br/>
-<br/>
+🛠️ **Automação e Resolução de Problemas**
+Possuo facilidade em identificar processos manuais que podem ser otimizados. Como projeto de destaque, desenvolvi de forma proativa um script em **PowerShell** para automatizar a verificação de versões de softwares em ambientes laboratoriais, garantindo eficiência na manutenção preventiva.
 
-### 📊 Estatísticas
+🎨 **Arquitetura e Engenharia de Software**
+Através da minha pós-graduação, busco aplicar as melhores práticas de engenharia e usabilidade. Utilizo **Tailwind CSS** para transformar conceitos visuais em interfaces responsivas que oferecem uma excelente experiência em qualquer dispositivo.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    style="padding-right: 10px;" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=dsavila&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" 
-  />
+## 💻 Tech Stack
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsavila&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
